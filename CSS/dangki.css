@@ -1,3 +1,6 @@
+.b{
+background-color: aliceblue;
+}
 .b102{
     width: 60%;
     margin: 0 auto;
@@ -5,8 +8,8 @@
     box-shadow: 0 0 5px black;
     padding: 10px;
     list-style: none;
-    background-color: white;
     font-family: 'Montserrat';
+    background-image: url(../APicture/brr.jpg);
 }
 .tieu{
     text-align: center;
